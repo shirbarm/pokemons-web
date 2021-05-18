@@ -1,0 +1,3 @@
+$("#all-pockemons").click(function(){
+
+});
